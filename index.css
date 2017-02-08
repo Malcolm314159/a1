@@ -1,0 +1,11 @@
+body {
+  width: 600px;
+  font-family: sans-serif;
+  background-color: #ddccdd;
+  text-align: center;
+  margin: auto;
+}
+p {
+  text-align: left;
+  font-family: serif;
+}
